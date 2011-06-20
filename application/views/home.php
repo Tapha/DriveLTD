@@ -29,7 +29,7 @@
 		<ul>
 			<li><a href="<?php echo $base_url;?>">Homepage</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_about">About us</a></li>
-			<li><a href="<?php echo $base_url;?>" id="trigger_about">ADI? Help your students and earn money!</a></li>
+			<li><a href="<?php echo $base_url;?>" id="trigger_earn">ADI? Help your students and earn money!</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_contact">Contact</a></li>
 		</ul>
 	</div>
@@ -205,11 +205,11 @@
 	<div id="footer">
 		<div class="alignleft">Copyright &copy; 2010 <a href="<?php echo $base_url;?>">DriveLTD</a>. All rights reserved.</div>
 		<div class="alignright">
-			<a href="<?php echo $base_url.'img/#';?>" id="trigger_contact_footer" title="Contact">Contact</a>
+			<a href="<?php echo $base_url;?>" id="trigger_contact_footer" title="Contact">Contact</a>
 			<span class="divider"></span>
-			<a href="<?php echo $base_url.'img/#';?>" id="trigger_about_footer" title="About us">About us</a>
+			<a href="<?php echo $base_url;?>" id="trigger_about_footer" title="About us">About us</a>
 			<span class="divider"></span>
-			<a href="<?php echo $base_url.'img/#';?>" title="Homepage">Homepage</a>
+			<a href="<?php echo $base_url;?>" title="Homepage">Homepage</a>
 		</div>
 	</div>
 	
