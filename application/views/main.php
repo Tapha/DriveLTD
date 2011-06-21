@@ -7,9 +7,9 @@
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<title>Slate Admin</title>	
 	
-	<link rel="stylesheet" href="./css/screen.css" type="text/css" media="screen" title="no title" charset="utf-8" />	
-	<link rel="stylesheet" href="./css/plugin.css" type="text/css" media="screen" title="no title" charset="utf-8" />	
-	<link rel="stylesheet" href="./css/custom.css" type="text/css" media="screen" title="no title" charset="utf-8" />		
+	<link rel="stylesheet" href="<?php echo $base_url.'css/screen.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
+	<link rel="stylesheet" href="<?php echo $base_url.'css/plugin.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
+	<link rel="stylesheet" href="<?php echo $base_url.'css/custom.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />		
 	
 	<style type="text/css" media="screen">
 		
@@ -29,12 +29,15 @@
 				<h4>Welcome James</h4>
 				
 				<p>
-					Logged in as Admin
+					Logged in as User
 					<br />
-					You have <a href="javascript:;">5 messages</a>
+					We have found <a href="javascript:;">5</a> earlier dates
+					<br>
+					<a id='logout' href="/">Log Out</a>
+					<br>
 				</p>
-				
-				<img src="./images/avatar.jpg" alt="avatar" />
+		
+				<img src="<?php echo $base_url.'img/avatar.jpg';?>" alt="avatar" />
 			</div> <!-- #info -->
 					
 		</div> <!-- #header -->	
@@ -426,23 +429,23 @@
 				<table cellspacing="0" class="inbox_table">
 					<tbody>
 						<tr>
-							<td class="avatar"><img src="./images/avatar.jpg" width="55" alt="avatar" class="avatar_img" /></td>
+							<td class="avatar"><img src="<?php echo $base_url.'img/avatar.jpg';?>" width="55" alt="avatar" class="avatar_img" /></td>
 							<td class="full"><a href="#">Lorem ipsum dolor sit amet</a><br />Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna al</td>
 							<td class="who">Sent by Peter</td>
 						</tr>
 	
 						<tr>
-							<td class="avatar"><img src="./images/avatar.jpg" width="55" alt="avatar" class="avatar_img" /></td>
+							<td class="avatar"><img src="<?php echo $base_url.'img/avatar.jpg';?>" width="55" alt="avatar" class="avatar_img" /></td>
 							<td class="full"><a href="#">Consectetur adipiscing</a><br />Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerc.</td>
 							<td class="who">Sent by Carla</td>
 						</tr>
 						<tr>
-							<td class="avatar"><img src="./images/avatar.jpg" width="55" alt="avatar" class="avatar_img" /></td>
+							<td class="avatar"><img src="<?php echo $base_url.'img/avatar.jpg';?>" width="55" alt="avatar" class="avatar_img" /></td>
 							<td class="full"><a href="#">Sed in porta lectus maecenas</a><br />Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</td>
 							<td class="who">Sent by Bruce</td>
 						</tr>
 						<tr>
-							<td class="avatar"><img src="./images/avatar.jpg" width="55" alt="avatar" class="avatar_img" /></td>
+							<td class="avatar"><img src="<?php echo $base_url.'img/avatar.jpg';?>" width="55" alt="avatar" class="avatar_img" /></td>
 	
 							<td class="full"><a href="#">Dignissim enim</a><br />Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</td>
 							<td class="who">Sent by Jane</td>

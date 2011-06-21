@@ -5,12 +5,12 @@
 
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<title>Slate Admin Login</title>
+	<title>DriveLTD Login</title>
 	
-	<link rel="stylesheet" href="./css/screen.css" type="text/css" media="screen" title="no title" charset="utf-8" />	
-	<link rel="stylesheet" href="./css/plugin.css" type="text/css" media="screen" title="no title" charset="utf-8" />	
-	<link rel="stylesheet" href="./css/custom.css" type="text/css" media="screen" title="no title" charset="utf-8" />
-	<link rel="stylesheet" href="./css/login.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+	<link rel="stylesheet" href="<?php echo $base_url.'css/screen.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
+	<link rel="stylesheet" href="<?php echo $base_url.'css/plugin.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
+	<link rel="stylesheet" href="<?php echo $base_url.'css/custom.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />
+	<link rel="stylesheet" href="<?php echo $base_url.'css/login.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />
 
 </head>
 
@@ -18,12 +18,12 @@
 
 <div id="login">
 	
-	<h1 id="title"><a href="">Slate Admin</a></h1>
+	<h1 id="title"><a href="">DriveLTD</a></h1>
 	
 <div id="login-body" class="clearfix"> 
 
 	         
-	<form action="index2.html" name="login" id="login_form" method="post">
+	<form action="<?php echo $base_url.'login/check';?>" name="login" id="login_form" method="post">
 		
 		
 	                    <div class="content_front">

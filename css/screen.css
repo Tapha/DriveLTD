@@ -154,14 +154,14 @@ body
 	#header h1
 	{
 		background: url(../img/title.png) no-repeat 0 0;
-		width: 159px;
-		height: 27px;
+		width: 400px;
+		height: 67px;
 		line-height: 500px;
 		overflow: hidden;
 		color: #FFF;		font-size: 32px;
 		position: absolute;
-		top: 40px;
-		left: 10px;
+		top: 34px;
+		left: 20px;
 	}
 	
 		#header h1 a { display: block; }
@@ -196,6 +196,10 @@ body
 		right: 0; 
 	}
 
+	#logout {
+		position: absolute;
+		top: -2px;
+	}
 
 #nav 
 { 

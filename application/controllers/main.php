@@ -34,11 +34,11 @@ class Login extends CI_Controller {
 		
 	    $this->load->helper('url');
         $data['base_url'] = base_url();
-		$this->load->view('login', $data);
+		$this->load->view('main', $data);
 		//}
 	}
 	
-	public function check()
+	public function frst()
 	{
 		/*$false = $this->session->userdata('loggedin');
 
@@ -53,13 +53,12 @@ class Login extends CI_Controller {
 
 		{*/
 		
-		//check user data from db, start session, put their data in session, log them in, etc.
-		
 	    $this->load->helper('url');
         $data['base_url'] = base_url();
 		$this->load->view('main', $data);
 		//}
 	}
+	
 }
 
 /* End of file welcome.php */
