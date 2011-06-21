@@ -27,7 +27,7 @@
 <div id="menu_bar">
 	<div class="container">
 		<ul>
-			<li><a href="<?php echo $base_url;?>">Homepage</a></li>
+			<li><a href="<?php echo $base_url.'login';?>">Login</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_about">About us</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_earn">ADI? Help your students and earn money!</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_contact">Contact</a></li>

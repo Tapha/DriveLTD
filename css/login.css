@@ -9,8 +9,7 @@ body { background: #263849; font: 12px/1.7em arial, sans-serif; }
 #login h1#title
 {
 	background: url(../img/title.png) no-repeat 0 0;
-	width: 160px;
-	height: 26px;
+	height: 60px;
 	line-height: 800px;
 	margin: 0 auto .90em;
 	overflow: hidden;	
