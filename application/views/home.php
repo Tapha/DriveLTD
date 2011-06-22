@@ -7,7 +7,7 @@
 <link href="<?php echo $base_url.'css/style.css'; ?>" rel="stylesheet" type="text/css"/>
 <link href="<?php echo $base_url.'css/colors.css'; ?>" rel="stylesheet" type="text/css"/>
 <link href="<?php echo $base_url.'css/modal.css'; ?>" rel="stylesheet" type="text/css"/>
-
+<link rel="icon" type="image/png" href="<?php echo $base_url."img/favicon.ico";?>">
 <script src="<?php echo $base_url.'js/jquery-1.4.4.min.js'; ?>" type="text/javascript"></script>
 <script src="<?php echo $base_url.'js/jquery.idTabs.min.js'; ?>" type="text/javascript"></script>
 <script src="<?php echo $base_url.'js/jquery.modal.js'; ?>" type="text/javascript"></script>
@@ -66,7 +66,7 @@
 		<!-- Image and buttons -->
 		<div id="right">
 			<div class="image">
-				<img src="<?php echo $base_url.'img/temp_product.jpg';?>" alt="Image" />
+				<img src="<?php echo $base_url.'img/product_img.png';?>" alt="Image" />
 			</div>
 			
 			<!-- CTA and read more -->
