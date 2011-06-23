@@ -29,7 +29,8 @@
 		<ul>
 			<li><a href="<?php echo $base_url.'login';?>">Login</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_about">About us</a></li>
-			<li><a href="<?php echo $base_url;?>" id="trigger_earn">ADI? Help your students and earn money!</a></li>
+			<li><a href="<?php echo $base_url;?>" id="trigger_blog">Blog</a></li>
+			<li><a href="<?php echo $base_url;?>" id="trigger_earn">Refer a friend, make &#163;10!</a></li>
 			<li><a href="<?php echo $base_url;?>" id="trigger_contact">Contact</a></li>
 		</ul>
 	</div>
@@ -51,15 +52,15 @@
 		<div id="left">
 			<h1>Book Your Test 10x Earlier!</h1>
 			
-			<p class="half_margin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-			
+			<p class="half_margin">Get a booking for next week in as little as 25 minutes.</p>
+			<p>Super easy to use software. Takes less than 10 seconds to get started. </p>
+		
 			<ul class="checklist">
-				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-				<li class="right">Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+				<li>Get a booking for next week in as little as 25 minutes.</li>
+				<li class="right">Super easy to use software. Takes less than 10 seconds to get started.</li>
 
-				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-				<li class="right">Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+				<li>Nothing to install, completely web based</li>
+				<li class="right">We save you an average of &#163;500 in lessons by getting you an earlier date.</li>
 			</ul>
 		</div>
 		

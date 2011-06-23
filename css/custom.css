@@ -7,7 +7,8 @@
 	padding: 3px 4px;
 	text-align: right;
 	color: #fff;
-	font-size: 10px;
+	font-size: 17px;
+	font-weight: bold;
 	display: inline;
 	white-space: nowrap;
 	width: 60px;
@@ -17,18 +18,18 @@
 	border-radius: 5px;
 }
 
-.ticket.open { background-color: #F90; }
-.ticket.closed { background-color: #666; }
-.ticket.responded { background-color: #263849; }
+.ticket.open { background-color: #00CD00; }
+.ticket.closed { background-color: #EE2C2C; }
+.ticket.responded { background-color: #1C86EE; }
 
 
 /* -------------------------------------------------------------- 
    Dashboard Tables
 -------------------------------------------------------------- */
-.support_table .full { width: 70%; font-size: 11px; }
+.support_table .full { width: 70%; font-size: 15px; font-weight: bold;}
 .support_table .who { width: 30%; text-align: right; font-size: 10px; color: #999; }
 
-.info_table .value { width: 25%; font-size: 18px; font-weight: bold; color: #263849; }
+.info_table .value { width: 25%; font-size: 14px; font-weight: bold; color: #263849; }
 
 .inbox_table .avatar { width: 60px; }
 .inbox_table .full { width: 80%; font-size: 11px; }
