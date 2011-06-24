@@ -52,9 +52,9 @@
 		<div id="left">
 			<h1>Book Your Test 10x Earlier!</h1>
 			
-			<p class="half_margin"><i>Trying to get your licence can cost you a fortune.</i></p>
+			<p class="half_margin"><div class='baldi'><b>Trying to get your licence can cost you a fortune.</b></div></p>
 			<p>Our software finds you driving test cancellations at times that are best for you. So that you can do your test
-				<b>next week instead of next month</b>, saving you not only time but <b>&#163;100's</b> of pounds aswell.</p>
+				<b id='boldhome'>next week instead of next month</b>, saving you not only time but <b id='boldhome'>&#163;100's</b> of pounds aswell.</p>
 		
 			<ul class="checklist">
 				<li>Get a booking for next week in as little as 25 minutes.</li>
@@ -222,13 +222,6 @@
 		
 			<p>Drive LTD was created after its founder "Tapha Ngum" had trouble booking himself an earlier driving test. Unsatisfied with the solutions that were out there he decided to create one himself. The result is DriveLTD's early test booking software. So far it has helped 100's of drivers take and pass their test up to 10x earlier than their initial test date was booked. But we're not stopping there. We want to offer much more helpful software for drivers. Software that we wish we had when we were learners. So watch this space!</p>
 			
-			<p><strong>How It Works - In A Paragraph</strong></p>
-			
-			<p>Ut enim ad minim veniam, 
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-			Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-			fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-			culpa qui officia deserunt mollit anim id est laborum.</p>
 		</div>
 		<div class="modal_bott"></div>
 	</div>
