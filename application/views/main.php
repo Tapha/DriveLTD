@@ -23,7 +23,7 @@
 	
 	<div id="top">
 		<div id="header">
-			<h1><a href="index2.html">Slate Admin</a></h1>
+			<h1><a href="index2.html">DriveLTD</a></h1>
 			
 			<div id="info">
 				<h4>Welcome James</h4>
@@ -52,7 +52,7 @@
 				</li>
 		
 				<li class="mega">
-					<a href="index2.html" class="mega-link">Details</a>	
+					<a href="<?php echo $base_url; ?>" class="mega-link">Details</a>	
 				</li>
 				
 				<li class="mega">				

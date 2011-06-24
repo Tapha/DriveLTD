@@ -52,12 +52,13 @@
 		<div id="left">
 			<h1>Book Your Test 10x Earlier!</h1>
 			
-			<p class="half_margin">Get a booking for next week in as little as 25 minutes.</p>
-			<p>Super easy to use software. Takes less than 10 seconds to get started. </p>
+			<p class="half_margin">Trying to get your licence can cost you a fortune.</p>
+			<p>Our software finds you driving test cancellations at times that are best for you. So that you can do your test
+				<b>next week instead of next month</b>, saving you not only time but <b>&#163;100's</b> of pounds aswell.</p>
 		
 			<ul class="checklist">
 				<li>Get a booking for next week in as little as 25 minutes.</li>
-				<li class="right">Super easy to use software. Takes less than 10 seconds to get started.</li>
+				<li class="right">Super easy to use. Takes less than 10 seconds to get started</li>
 
 				<li>Nothing to install, completely web based</li>
 				<li class="right">We save you an average of &#163;500 in lessons by getting you an earlier date.</li>
@@ -94,39 +95,38 @@
 			<div id="features">
 				<h2>Product features</h2>
 				
-				<p><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
-				tempor incididunt ut labore et dolore magna aliqua.</strong></p>
+				<p><strong>Some of the reasons why we're the market leader in early practical test bookings.</strong></p>
 				
 				<ul class="tab_features">
 					<li>
 						<img src="<?php echo $base_url.'img/icons/library.png';?>" alt="icon" />
-						<p><strong>Lorem ipsum dolor sit amet</strong>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+						<p><strong>We Check Every 5 Mins</strong>
+						To guarantee you the best dates, we check for cancellations every 5 minutes.</p>
 					</li>
 					<li>
 						<img src="<?php echo $base_url.'img/icons/splash_green.png';?>" alt="icon" />
-						<p><strong>Lorem ipsum dolor sit amet</strong>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+						<p><strong>100% Secure</strong>
+						All your details are stored safely and under SSL encryption. We take your trust and security very seriously.</p>
 					</li>
 					<li>
 						<img src="<?php echo $base_url.'img/icons/smiley.png';?>" alt="icon" />
-						<p><strong>Lorem ipsum dolor sit amet</strong>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+						<p><strong>Satisfaction Guaranteed</strong>
+						We give you all your money back if you're not fully satisfied. No questions asked.</p>
 					</li>
 					<li>
 						<img src="<?php echo $base_url.'img/icons/computer.png';?>" alt="icon" />
-						<p><strong>Lorem ipsum dolor sit amet</strong>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+						<p><strong>Nothing to install</strong>
+						We're 100% web based. So you can sit back and let us do all the hard work.</p>
 					</li>
 					<li>
 						<img src="<?php echo $base_url.'img/icons/mail.png';?>" alt="icon" />
-						<p><strong>Lorem ipsum dolor sit amet</strong>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+						<p><strong>Notifications By Email and SMS</strong>
+						We send you an email or text message as soon as we find you an appropriate (earlier) date.</p>
 					</li>
 					<li>
 						<img src="<?php echo $base_url.'img/icons/applications.png';?>" alt="icon" />
-						<p><strong>Lorem ipsum dolor sit amet</strong>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+						<p><strong>Easy To Use</strong>
+						You literally click a button, then we do the rest. Support is also onhand 24/7 if you need any help.</p>
 					</li>
 				</ul>
 			</div>
