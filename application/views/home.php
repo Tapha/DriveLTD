@@ -52,7 +52,7 @@
 		<div id="left">
 			<h1>Book Your Test 10x Earlier!</h1>
 			
-			<p class="half_margin">Trying to get your licence can cost you a fortune.</p>
+			<p class="half_margin"><i>Trying to get your licence can cost you a fortune.</i></p>
 			<p>Our software finds you driving test cancellations at times that are best for you. So that you can do your test
 				<b>next week instead of next month</b>, saving you not only time but <b>&#163;100's</b> of pounds aswell.</p>
 		
@@ -89,7 +89,7 @@
 			<!-- Tab links -->
 			<ul class="idTabs"> 
 				<li><a href="#features">Features</a></li> 
-				<li><a href="#about_product">About product</a></li>
+				
 			</ul>
 			<!-- Tab content 1 -->
 			<div id="features">
@@ -131,36 +131,7 @@
 				</ul>
 			</div>
 			<!-- Tab content 2 -->
-			<div id="about_product">
-				<h2>About product</h2>
-				
-				<img class="imgbox alignright" src="<?php echo $base_url.'img/temp_product2.jpg';?>" alt="Image" />
-				
-				<p><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
-				tempor incididunt ut labore et dolore magna aliqua.</strong></p>
-				
-				<p>Ut enim ad minim veniam, 
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-				Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-				fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-				culpa qui officia deserunt mollit anim id est laborum.</p>
-				
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-				Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-				fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-				culpa qui officia deserunt mollit anim id est laborum.</p>
-				
-				<h3>Bullet list (H3):</h3>
-				
-				<ul>
-					<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-					<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-					<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-					<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-				</ul>
-			</div>
+
 		</div>
 		
 		<!-- Quote area -->
