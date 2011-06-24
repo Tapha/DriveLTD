@@ -53,7 +53,7 @@
 			<h1>Book Your Test 10x Earlier!</h1>
 			
 			<p class="half_margin"><div class='baldi'><b>Trying to get your licence can cost you a fortune.</b></div></p>
-			<p>Our software finds you driving test cancellations at times that are best for you. So that you can do your test
+			<p>Our software finds you driving test cancellations at the times that are best for you. So that you can do your test
 				<b id='boldhome'>next week instead of next month</b>, saving you not only time but <b id='boldhome'>&#163;100's</b> of pounds aswell.</p>
 		
 			<ul class="checklist">
