@@ -52,7 +52,7 @@
 		<div id="left">
 			<h1>Book Your Test 10x Earlier!</h1>
 			
-			<p class="half_margin"><div class='baldi'><b>Trying to get your licence can cost you a fortune.</b></div></p>
+			<p class="half_margin"><div class='baldi'><b>Waiting to get your licence can cost you a fortune.</b></div></p>
 			<p>Our software finds you driving test cancellations at the times that are best for you. So that you can do your test
 				<b id='boldhome'>next week instead of next month</b>, saving you not only time but <b id='boldhome'>&#163;100's</b> of pounds aswell.</p>
 		
@@ -167,8 +167,8 @@
 	<div class="last_chance">
 		<h4>Drive LTD - The Driving Software Company</h4>
 		
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqui.</p>
+		<p>People, especially in heavily booked/busy test centers are always cancelling their tests for a variety of reasons. Our software works by finding you these cancellation in real time and booking them for you as soon as possible
+		. So that you can save both time and money. With us you can do your test next week, not next month.</p>
 		
 		<a href="<?php echo $base_url.'payments';?>" class="buy fader" title="Buy product now!">Buy now!</a>
 	</div>

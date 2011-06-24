@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Login extends CI_Controller {
+class Main extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -38,7 +38,7 @@ class Login extends CI_Controller {
 		//}
 	}
 	
-	public function frst()
+	public function details()
 	{
 		/*$false = $this->session->userdata('loggedin');
 
@@ -55,7 +55,7 @@ class Login extends CI_Controller {
 		
 	    $this->load->helper('url');
         $data['base_url'] = base_url();
-		$this->load->view('main', $data);
+		$this->load->view('details', $data);
 		//}
 	}
 	

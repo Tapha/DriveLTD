@@ -31,7 +31,7 @@
 				<p>
 					Logged in as User
 					<br />
-					We have found <a href="javascript:;">16</a> earlier dates
+					We have found you <a href="javascript:;">16</a> earlier dates
 					<br>
 					<a id='logout' href="<?php echo $base_url?>">Log Out</a>
 					<br>
@@ -48,11 +48,11 @@
 			<ul class="mega-container mega-grey">
 	
 				<li class="mega mega-current">
-					<a href="index2.html" class="mega-link">Dashboard</a>	
+					<a href="<?php echo $base_url.'main';?>" class="mega-link">Dashboard</a>	
 				</li>
 		
 				<li class="mega">
-					<a href="<?php echo $base_url; ?>" class="mega-link">Details</a>	
+					<a href="<?php echo $base_url.'main/details'; ?>" class="mega-link">Details</a>	
 				</li>
 				
 				<li class="mega">				
@@ -71,7 +71,7 @@
 		<div class="portlet x3" style="min-height: 300px;">
 			
 			<div class="portlet-header">
-				<h4>Previous Test Booking</h4>
+				<h4>Initial Test Booking</h4>
 			</div> <!-- .portlet-header -->
 			
 			<div class="portlet-content">
@@ -138,11 +138,6 @@
 			<div class="portlet-header">
 				<h4>Earlier Test Dates Found</h4>
 				
-				<ul class="portlet-tab-nav">
-					<li class="portlet-tab-nav-active"><a href="#allreq" rel="tooltip" title="All support requests.">All</a></li>						
-					<li class=""><a href="#openreq" rel="tooltip" title="Best test dates (A lot earlier)">Earliest</a></li>
-					<li class=""><a href="#respreq" rel="tooltip" title="Good date(Earlier than asked for)">Early</a></li>
-				</ul>
 			</div> <!-- .portlet-header -->
 			
 			<div class="portlet-content">
@@ -167,13 +162,6 @@
 							<td class="full">Monday, April 4, 2011 - 10:10 am</td>
 							<td class="who"><button class="btn btn-orange">Book This</button></td>
 						</tr>
-						</tbody>
-					</table>
-				</div> <!-- .portlet-tab-content -->
-				
-				<div id="allreq" class="portlet-tab-content">
-					<table class="support_table" cellspacing="0">
-						<tbody>
 						<tr>
 							<td><span class="ticket open">earliest</span></td>
 							<td class="full">Monday, April 5, 2011 - 10:10 am</td>
@@ -191,14 +179,8 @@
 							<td class="full">Monday, April 4, 2011 - 10:10 am</td>
 							
 							<td class="who"><button class="btn btn-orange">Book This</button></td>
-						</tr> 
-						</tbody>
-					</table>
-				</div> <!-- .portlet-tab-content -->
-				
-				<div id="respreq" class="portlet-tab-content">
-					<table class="support_table" cellspacing="0">
-						<tbody>
+						</tr>
+						<!--Dividing line. Do another search for the earlys here.-->
 						<tr>
 							<td><span class="ticket responded">early</span></td>
 							<td class="full">Monday, April 5, 2011 - 10:10 am</td>
