@@ -5,12 +5,12 @@
 
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<title>Slate Admin</title>	
+	<title>DriveLTD Admin</title>	
 	
 	<link rel="stylesheet" href="<?php echo $base_url.'css/screen.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
 	<link rel="stylesheet" href="<?php echo $base_url.'css/plugin.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
 	<link rel="stylesheet" href="<?php echo $base_url.'css/custom.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />		
-	
+	<link rel="icon" type="image/png" href="<?php echo $base_url."img/favicon.ico";?>">
 	<style type="text/css" media="screen">
 		
 	</style>

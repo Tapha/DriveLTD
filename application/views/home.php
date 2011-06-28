@@ -165,10 +165,9 @@
 	
 	<!-- Bottom CTA -->
 	<div class="last_chance">
-		<h4>Drive LTD - The Driving Software Company</h4>
+		<h4>Drive LTD - Get an earlier driving test with us today!</h4>
 		
-		<p>People, especially in heavily booked/busy test centers are always cancelling their tests for a variety of reasons. Our software works by finding you these cancellation in real time and booking them for you as soon as possible
-		. So that you can save both time and money. With us you can do your test next week, not next month.</p>
+		<p>People, especially at heavily booked/busy test centers are always cancelling their tests, for a variety of reasons. Our software works by finding you these cancellation in real time and booking them for you as soon as possible, so that you can save both time and money. With us, you can do your test next week, not next month.</p>
 		
 		<a href="<?php echo $base_url.'payments';?>" class="buy fader" title="Buy product now!">Buy now!</a>
 	</div>
@@ -190,7 +189,7 @@
 		<div class="modal_top"><a href="<?php echo $base_url;?>" class="jqmClose" title="Close">Close</a></div>
 		<div class="modal_content">
 			<div class="headline">Contact us</div>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<p>We'd love to hear from you.</p>
 		
 			<form action="<?php echo $base_url.'home/contact_us';?>" method="post">
 			<dl class="form">
@@ -220,7 +219,7 @@
 			<div class="headline">About us</div>
 			<p><strong>Why We Created DriveLTD</strong></p>
 		
-			<p>Drive LTD was created after its founder "Tapha Ngum" had trouble booking himself an earlier driving test. Unsatisfied with the solutions that were out there he decided to create one himself. The result is DriveLTD's early test booking software. So far it has helped 100's of drivers take and pass their test up to 10x earlier than their initial test date was booked. But we're not stopping there. We want to offer much more helpful software for drivers. Software that we wish we had when we were learners. So watch this space!</p>
+			<p>Drive LTD was created after its founder "Tapha Ngum" had trouble booking himself an earlier driving test. Unsatisfied with the solutions that were out there,  he decided to create one himself. The result is DriveLTD's early test booking software. So far it has helped 100's of drivers take and pass their test up to 10x earlier than their initial test date was booked. But we're not stopping there. We want to offer much more helpful software for drivers. Software that we wish we had when we were learners. So watch this space!</p>
 			
 		</div>
 		<div class="modal_bott"></div>
