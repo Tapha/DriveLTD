@@ -74,18 +74,18 @@
 			<div class="portlet-content">
 				
 											
-						<form action="#" method="post" class="form label-inline">
+						<form action="<?php echo $base_url.'details';?>" method="post" class="form label-inline">
 	
-							<div class="field"><label for="fname">Your Full Name </label> <input id="fname" name="fname" size="50" type="text" class="medium" /></div>
-							<div class="field"><label for="mobile">Mobile No.</label> <input id="address2" size="50" type="text" class="large" /></div>
-							<div class="field"><label for="email">Email</label> <input id="address2" size="50" type="text" class="large" /></div>
+							<div class="field"><label for="fname">Your Full Name </label> <input id="fname" name="fullname" size="50" type="text" class="medium" /></div>
+							<div class="field"><label for="mobile">Mobile No.</label> <input id="address2" name='mobile' size="50" type="text" class="large" /></div>
+							<div class="field"><label for="email">Email</label> <input id="address2" name='email_add' size="50" type="text" class="large" /></div>
 							
-								<p class="field_help">These are to log you into the DSA Website. We don't keep this information in plain text.</p>
-							<div class="field"><label for="theory">Theory Test Pass Certificate Number</label> <input id="address2" size="50" type="text" class="large" /></div>
-							<div class="field"><label for="Application_Reference">Appication Reference Number</label> <input id="address2" size="50" type="text" class="large" /></div>
+								<p class="field_help">These are to log you into the DSA Website. We don't look at this information.</p>
+							<div class="field"><label for="theory">Theory Test Pass Certificate Number</label> <input id="address2" name='theory' size="50" type="text" class="large" /></div>
+							<div class="field"><label for="Application_Reference">Appication Reference Number</label> <input id="address2" name='application_reference' size="50" type="text" class="large" /></div>
 
 							</div>
-							<div class="field phone_field"><label for="date">Book my test before this date </label> <input id="telephone" size="3" type="text" class="xsmall" /> - <input size="3" type="text" class="xsmall" /> - <input size="4" type="text" class="xsmall" />
+							<div class="field phone_field"><label for="date">Book my test before this date </label> <input id="telephone" name='' size="3" type="text" class="xsmall" /> - <input size="3" type="text" class="xsmall" /> - <input size="4" type="text" class="xsmall" />
 
 							</div>
 		
