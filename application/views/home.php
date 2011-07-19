@@ -43,7 +43,7 @@
 		
 		<div class="call">
 			<span>Call us now</span>
-			<strong>01895256903</strong>
+			<strong>07767290042</strong>
 		</div>
 	</div>
 	
@@ -73,7 +73,7 @@
 			
 			<!-- CTA and read more -->
 			<div class="buttons">
-				<a href="<?php echo $base_url.'payments';?>" class="buy fader" title="Buy product now!">Buy now!</a>
+				<a href="<?php echo $base_url.'buy';?>" class="buy fader" title="Buy product now!">Buy now!</a>
 				<a href="#read_more" class="more">Read more</a>
 			</div>
 		</div>
@@ -169,7 +169,7 @@
 		
 		<p>People, especially at heavily booked/busy test centers are always cancelling their tests, for a variety of reasons. Our software works by finding you these cancellation in real time and booking them for you as soon as possible, so that you can save both time and money. With us, you can do your test next week, not next month.</p>
 		
-		<a href="<?php echo $base_url.'payments';?>" class="buy fader" title="Buy product now!">Buy now!</a>
+		<a href="<?php echo $base_url.'free';?>" class="buy fader" title="Buy product now!">Buy now!</a>
 	</div>
 	
 	<!-- Footer area -->
@@ -219,7 +219,7 @@
 			<div class="headline">About us</div>
 			<p><strong>Why We Created DriveLTD</strong></p>
 		
-			<p>Drive LTD was created after its founder "Tapha Ngum" had trouble booking himself an earlier driving test. Unsatisfied with the solutions that were out there,  he decided to create one himself. The result is DriveLTD's early test booking software. So far it has helped 100's of drivers take and pass their test up to 10x earlier than their initial test date was booked. But we're not stopping there. We want to offer much more helpful software for drivers. Software that we wish we had when we were learners. So watch this space!</p>
+			<p>Drive LTD was created after its founder "Leo Pantero" had trouble booking himself an earlier driving test. Unsatisfied with the solutions that were out there,  he decided to create one himself. The result is DriveLTD's early test booking software. So far it has helped 100's of drivers take and pass their test up to 10x earlier than their initial test date was booked. But we're not stopping there. We want to offer much more helpful software for drivers. Software that we wish we had when we were learners. So watch this space!</p>
 			
 		</div>
 		<div class="modal_bott"></div>

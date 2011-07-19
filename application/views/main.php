@@ -129,7 +129,7 @@
 				We also continue searching for earlier dates (if you want choose to) so that you can get the best and earliest date possible.
 				</h4>
 			</p>
-			<button class="btn btn-pink">Start Search</button>
+			<a href='<?php echo $base_url.'search';?>'><button class="btn btn-orange">Start Search</button></a>
 		</div>
 		
 		<div class="xbreak"></div> <!-- .xbreak -->

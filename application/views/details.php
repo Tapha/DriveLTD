@@ -5,7 +5,7 @@
 
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<title>Slate Admin</title>	
+	<title>Admin</title>	
 	
 	<link rel="stylesheet" href="<?php echo $base_url.'css/screen.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
 	<link rel="stylesheet" href="<?php echo $base_url.'css/plugin.css'?>" type="text/css" media="screen" title="no title" charset="utf-8" />	
@@ -81,6 +81,8 @@
 							<div class="field"><label for="email">Email</label> <input id="address2" name='email_add' size="50" type="text" class="large" /></div>
 							
 								<p class="field_help">These are to log you into the DSA Website. We don't look at this information.</p>
+							<div class="field"><label for="licence">Drivers Licence</label> <input id="address2" name='licence_number' size="50" type="text" class="large" /></div>
+							
 							<div class="field"><label for="theory">Theory Test Pass Certificate Number</label> <input id="address2" name='theory' size="50" type="text" class="large" /></div>
 							<div class="field"><label for="Application_Reference">Appication Reference Number</label> <input id="address2" name='application_reference' size="50" type="text" class="large" /></div>
 
